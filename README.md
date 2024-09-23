@@ -2,6 +2,6 @@
 
 ## Functions
 
-- Increment Counter
-- Decrement Counter
-- Get Current Count
+- Add Book
+- Purchase Book
+- Get Book Details
