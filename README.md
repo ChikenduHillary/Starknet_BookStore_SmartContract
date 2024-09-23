@@ -1,4 +1,4 @@
-# Simple Storage Contract
+# Book Store Smart Contract
 
 ## Functions
 
